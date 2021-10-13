@@ -1,0 +1,58 @@
+---
+date: "2021-10-08"
+draft: false
+excerpt: But what should we do with a fiction that is not blatantly false, but false only because an author has been forgetful? . . . 
+subtitle: ""
+title: On Truth and Fiction 
+weight: 1
+---
+
+<script src="/rmarkdown-libs/htmlwidgets/htmlwidgets.js"></script>
+<script src="/rmarkdown-libs/viz/viz.js"></script>
+<link href="/rmarkdown-libs/DiagrammeR-styles/styles.css" rel="stylesheet" />
+<script src="/rmarkdown-libs/grViz-binding/grViz.js"></script>
+
+
+<p>“But what should we do with a fiction that is not blatantly false, but false only because an author has been forgetful”? (truth and fiction, 46) In other words, why can’t we ascribe the same subject-predicate form as parallel descriptions of real-life characters; such that it would be false to say “Holmes wears a silk top hat” in the same way that it would be false to say “Nixon wears a silk top hat.”</p>
+<p>As it stands now, several difficulties arise in doing so:</p>
+<ul>
+<li>In some ways, Holmes is a real-life person of flesh and blood as is Nixon.</li>
+<li>How many members are there in Sir Joseph’s chorus, <em>five</em>? <em>fifty</em>?</li>
+<li>What restricts ranges of quantification.</li>
+<li>Finally, why are fictional characters immune to inferred consequences?</li>
+</ul>
+<blockquote>
+<p>. . . the Meinongian must tell us why truths about fictional characters are cut off, sometimes though not always, from the consequences they ought to imply (37).</p>
+</blockquote>
+<p>The answer to this question, argues Lewis is that we must first abstract away from the original to several of the possible revisions that remain closest to the original.</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-1"></span>
+<div id="htmlwidget-1" style="width:672px;height:500px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-1">{"x":{"diagram":"digraph {\n  graph [layout = dot, rankdir = TB]\n  \n  node [shape = oval]        \n  rec1 [label = <Actual World; &#x3C8;<FONT POINT-SIZE=\"8\"><SUP>1<\/SUP><\/FONT>w<FONT POINT-SIZE=\"8\"><SUB>0<\/SUB><\/FONT>>]\n  rec2 [label = <Nearest w<FONT POINT-SIZE=\"8\"><SUB>1<\/SUB><\/FONT>>]\n  rec3 [label = <Nearest w<FONT POINT-SIZE=\"8\"><SUB>2<\/SUB><\/FONT>>]\n  rec4 [label = <Nearest w<FONT POINT-SIZE=\"8\"><SUB>3<\/SUB><\/FONT>>]\n  \n  # edge definitions with the node IDs\n  rec1 -> rec2 -> rec3 -> rec4\n  }","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figure 1: Closest Worlds
+</p>
+</div>
+<p>Lets say that at <span class="math inline">\(w_{1}\)</span>, “Baker Street” is closer to “Paddington” than it is to “Waterloo.” Also at <span class="math inline">\(w_{1}\)</span> Sherlock Holmes has <span class="math inline">\(10^{5}\)</span> number of hairs on his head. While we might think that in the actual world <span class="math inline">\(w_{0}\)</span>, it is also true that “Baker Street” is closer to “Paddington” than it is to “Waterloo,” but this gives us no reason to think that Sherlock Holmes has <span class="math inline">\(10^{5}\)</span> number of hairs on his head. Therefore there are a number of truths <span class="math inline">\(\psi^{1-n}\)</span> which hold at <span class="math inline">\(w_{1}\)</span>.</p>
+<div class="figure"><span style="display:block;" id="fig:unnamed-chunk-2"></span>
+<div id="htmlwidget-2" style="width:672px;height:500px;" class="grViz html-widget"></div>
+<script type="application/json" data-for="htmlwidget-2">{"x":{"diagram":"digraph {\n  graph [layout = dot, rankdir = TB]\n  \n  node [shape = oval]        \n  rec1 [label = <Actual World, w<FONT POINT-SIZE=\"8\"><SUB>0<\/SUB><\/FONT>>]\n  rec2 [label = <Nearest w<FONT POINT-SIZE=\"8\"><SUB>1<\/SUB><\/FONT> psi<FONT POINT-SIZE=\"8\"><SUP>1-n<\/SUP><\/FONT>>]\n  rec3 [label = <Nearest w<FONT POINT-SIZE=\"8\"><SUB>2<\/SUB><\/FONT>>]\n  rec4 [label = <Nearest w<FONT POINT-SIZE=\"8\"><SUB>3<\/SUB><\/FONT>>]\n  \n  # edge definitions with the node IDs\n  rec1 -> rec2  rec1 -> rec4\n  }","config":{"engine":"dot","options":null}},"evals":[],"jsHooks":[]}</script>
+<p class="caption">
+Figure 2: Relations
+</p>
+</div>
+<p>The above is wrong because Sherlock Holmes does not appear to have <span class="math inline">\(10_{5}\)</span> number of hairs on his head. What this unfortunate sequence looks like is:</p>
+<div id="the-reality-principle" class="section level2">
+<h2>The Reality Principle</h2>
+<p>If <span class="math inline">\(p_{1}, . . . p_{n}\)</span> are the propositions whose fictionality a representation generates directly, another proposition, <span class="math inline">\(q\)</span>, is fictional in it if, and only if, were it the case that <span class="math inline">\(p_{1}, . . . p_{n}\)</span>, it would be the case that <span class="math inline">\(q\)</span>.</p>
+<p><span class="math display">\[\frac{\psi^{1}, . . ., \psi^{n}}{\therefore\phi}\]</span></p>
+<p>Where there is a <span class="math inline">\(w_{n}\)</span> between <span class="math inline">\(w_{1-n}\)</span> at which <span class="math inline">\(\neg\psi\land\phi\)</span>. You might think that there is no reason to think that Sherlock Holmes has <span class="math inline">\(10^{5}\)</span> number of hairs on his head anywhere in the set <span class="math inline">\(\psi_{1-n}\)</span> but if this is true, then it does not answer those cases where:</p>
+<ul>
+<li>Holmes lived on Baker Street (which is not nearer Paddington Station than it is Waterloo Station in the actual world <span class="math inline">\(w_{0}\)</span>)</li>
+<li>Holmes lived nearer to Paddington Station than Waterloo Station</li>
+<li>Holmes was just a person—a person of flesh and blood (Not person of flesh and blood at <span class="math inline">\(w_{0}\)</span>)</li>
+<li>Holmes really existed (doesn’t exist?)</li>
+</ul>
+<p>The interpreter of the fiction is to ask: “what the real world would be like if the propositions (as a whole within fiction) whose fictionality is generated directly were true: What else would be true if they were?”</p>
+<p>We can possibly amend this problem by prefixing an operator; say “In the fiction <span class="math inline">\(f\)</span> . . .”, to each premiss and to the conclusion of the original arguments.</p>
+<p><span class="math display">\[\frac{In f, \psi^{1}, . . ., In f, \psi^{n}}{\therefore In f, \phi}\]</span></p>
+</div>
