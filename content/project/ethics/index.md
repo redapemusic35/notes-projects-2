@@ -19,19 +19,22 @@ tags:
 title: Phil 2050-14
 ---
 
+Hopefully this will allow you to access course content quickly and easily. It is easier for me to maintain and you might have found that it was simply a click from Canvas. I will post the weekly assignments and lecture slides and notes from the previous week. The 5 numbers at the end of the links under "Lecture slides and notes" correspond to the Monday of the week's lectures comprising that slide.
+
+Regarding the readings
 ## Assignments
 
 ### Week 1. Morality
 
-Syllabus; Lord of the Rings Pojman pages 10--30 and Hobbe's On the state of Nature, pages 40--48.
+Wed, Syllabus; Fri, Lord of the Rings Pojman pages 10--30 and Hobbe's On the state of Nature, pages 40--48.
 
 ### Week 2. Reason
 
-Ethical reasoning, Language, Truth and Logic, Start of Introduction (5) to page 16 and 31--39, handout on informal logic.
+Mon, Ethical reasoning, Language, Truth and Logic, Start of Introduction (5) to page 16; Wed, 31--39; Fri, handout on informal logic.
 
 ### Week 3
 
-Billy Bud (Pojman 53--63); Sophie's Choice (69--75); Natural Goodness (Pojman 90--98), On the Origin of Good and Evil (99--107);
+Mon, Billy Bud (Pojman 53--63); Wed, Natural Goodness (Pojman 90--98), On the Origin of Good and Evil (99--107); Fri, Sophie's Choice (69--75)
 
 ### Week 4
 
