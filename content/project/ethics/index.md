@@ -37,7 +37,7 @@ Hopefully this will allow you to access course content quickly and easily. It is
 |:---:|:---:|:---:|:---:|:---:|
 |||**January**|||
 |1/17||TML, Lord of the Flies, 10--30| TML, Hobbes, State of Nature 40--48||
-|1/31|LTL, 5--16|LTL, 31--39|Handout, Informal Logic||
+|1/31|Hobbes, State of Nature 40--48, LTL, 5--16|LTL, 31--39|Handout, Informal Logic||
 |||**Febrary**|||
 |2/7|TML, Billy Bud, 53--63; Sophie's Choice, 69--75|TML, Natural Goodness, 90--98|TML, Custom is King and The Case for Moral Relativism||
 |2/14|TML, Judge Not?|TML, Trying Out One's New Sword |TML, Seaman Holmes and The Longboat of William Brown||

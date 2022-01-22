@@ -11,7 +11,7 @@ description: |
   On Jerry Bridges's, The Practice of Godliness.
 excerpt: 
 author: Monty Reynolds
-show_post_thumbnail: true
+# show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
 ---
