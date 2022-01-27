@@ -40,22 +40,22 @@ Hopefully this will allow you to access course content quickly and easily. It is
 |1/24|Hobbes, State of Nature 40--48, LTL, 5--16|LTL, 31--39|Handout, Informal Logic||
 |||**Febrary**|||
 |1/31|TML, Billy Bud, 53--63; Sophie's Choice, 69--75|TML, Natural Goodness, 90--98|TML, Custom is King and The Case for Moral Relativism||
-|2/7|TML, Judge Not?|TML, Trying Out One's New Sword |TML, Seaman Holmes and The Longboat of William Brown||
-|2/14|Mill, 1--5|Mill, 6--12|Mill, 12--26||
-|2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53||
+|2/7|TML, Judge Not?|TML, Trying Out One's New Sword |Ayer, 102--114||
+|2/14|TML, Seaman Holmes and The Longboat of William Brown, Mill, 1--5|Mill, 6--12|Mill, 12--26||
+|2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53|Mill, 53--64||
 |||**March**|||
-|2/28|Mill, 53--64|TML, Against Utilitarianism, 211--221|TML, The Ones Who Walk Away From Omelas, 222--227||
-|3/7||||
-|3/14||||
+|2/28|TML, Against Utilitarianism, 211--221|TML, The Ones Who Walk Away From Omelas, 222--227|Euthyphro,Handout, 1--12||
+|3/7|Euthyphro, Handout, to end|Kant, 7--17|Kant, 19--30||
+| 3/7||Kant, 30--35|Kant, 39--44|Kant, 44--48||
+|3/14|TML, Why should we be moral?|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism||
+|3/21|TML, The Good Brahmin|TML, Hedonism|TML, The Human Search for Meaning||
+| 3/28 | TML, Intuitionism | Handout, A defense of Abortion |Mill, Free Speech||
 ||**April**||||
-|3/21||||
-|3/28|||
-|4/4|||
-|4/11|||
-||May|||
-|4/18||||
-|4/25||||
-|5/2|||
+|4/11|TML, Hate Speech| Handout, Nicomachaen Ethics *NE*, Bk I | Handout, *NE*, Bk II ||
+| 4/18 | Handout, *NE*, Bk VIII| Handout, Virtue Theory and Abortion |||
+|4/25|Handout, Ethics of Care |Handout, Ethics of Care|Handout, Ethics of Care||
+||**May**|||||
+|5/2|Handout, The Golden Bowl||||
 
 ### Week 8
 
