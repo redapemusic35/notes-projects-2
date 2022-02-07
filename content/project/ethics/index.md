@@ -43,19 +43,19 @@ Hopefully this will allow you to access course content quickly and easily. It is
 |2/7|TML, Judge Not?|TML, Trying Out One's New Sword |Ayer, 102--114||
 |2/14|TML, Seaman Holmes and The Longboat of William Brown, Mill, 1--5|Mill, 6--12|Mill, 12--26||
 |2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53|Mill, 53--64||
-|||**March**|||
 |2/28|TML, Against Utilitarianism, 211--221|TML, The Ones Who Walk Away From Omelas, 222--227|Euthyphro,Handout, 1--12||
+|||**March**|||
 |3/7|Euthyphro, Handout, to end|Kant, 7--17|Kant, 19--30||
-| 3/7||Kant, 30--35|Kant, 39--44|Kant, 44--48||
-|3/14|TML, Why should we be moral?|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism||
-|3/21|TML, The Good Brahmin|TML, Hedonism|TML, The Human Search for Meaning||
-| 3/28 | TML, Intuitionism | Handout, A defense of Abortion |Mill, Free Speech||
+| 3/14||Kant, 30--35|Kant, 39--44|Kant, 44--48||
+|3/21|TML, Why should we be moral?|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism||
+|3/28|TML, The Good Brahmin|TML, Hedonism|TML, The Human Search for Meaning||
 ||**April**||||
+| 4/4 | TML, Intuitionism | Handout, A defense of Abortion |Mill, Free Speech||
 |4/11|TML, Hate Speech| Handout, Nicomachaen Ethics *NE*, Bk I | Handout, *NE*, Bk II ||
 | 4/18 | Handout, *NE*, Bk VIII| Handout, Virtue Theory and Abortion |||
 |4/25|Handout, Ethics of Care |Handout, Ethics of Care|Handout, Ethics of Care||
 ||**May**|||||
-|5/2|Handout, The Golden Bowl||||
+|5/2|Handout, The Golden Bowl|Handout, Fragility of Goodness|Handout, Fragility of Goodness||
 
 ### Week 8
 
@@ -69,4 +69,15 @@ https://redapemusic35.github.io/xaringan_gh/1-20-22
 https://redapemusic35.github.io/xaringan_gh/1-23-22
 
 https://redapemusic35.github.io/xaringan_gh/1-25-22
+
+https://redapemusic35.github.io/xaringan_gh/1-27-22
+
+https://redapemusic35.github.io/xaringan_gh/1-31-22
+
+https://redapemusic35.github.io/xaringan_gh/2-2-22
+
+https://redapemusic35.github.io/xaringan_gh/2-7-22
+
+
+
 
