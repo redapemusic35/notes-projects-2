@@ -42,20 +42,19 @@ Hopefully this will allow you to access course content quickly and easily. It is
 |1/31|TML, Billy Bud, 53--63; Sophie's Choice, 69--75|TML, Natural Goodness, 90--98|TML, Custom is King and The Case for Moral Relativism||
 |2/7|TML, Judge Not?|TML, Trying Out One's New Sword |Ayer, 102--114||
 |2/14|TML, Seaman Holmes and The Longboat of William Brown, Mill, 1--5|Mill, 6--12|Mill, 12--26||
-|2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53|Mill, 53--64||
-|2/28|TML, Against Utilitarianism, 211--221|TML, The Ones Who Walk Away From Omelas, 222--227|Euthyphro,Handout, 1--12||
+|2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53|
+|2/28|Mill, 53--64|TML, Against Utilitarianism, 211--221||
 |||**March**|||
-|3/7|Euthyphro, Handout, to end|Kant, 7--17|Kant, 19--30||
-| 3/14||Kant, 30--35|Kant, 39--44|Kant, 44--48||
-|3/21|TML, Why should we be moral?|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism||
-|3/28|TML, The Good Brahmin|TML, Hedonism|TML, The Human Search for Meaning||
+|3/21|Euthyphro, Handout, to end|TML, pages 231--232 and Kant, 30--40|Kant, 44--48||
+| 3/28|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism|TML, The Good Brahmin||
+| 3/28 | TML, The Human Search for Meaning | TML, Intuitionism | Handout, A defense of Abortion |
 ||**April**||||
-| 4/4 | TML, Intuitionism | Handout, A defense of Abortion |Mill, Free Speech||
-|4/11|TML, Hate Speech| Handout, Nicomachaen Ethics *NE*, Bk I | Handout, *NE*, Bk II ||
-| 4/18 | Handout, *NE*, Bk VIII| Handout, Virtue Theory and Abortion |||
-|4/25|Handout, Ethics of Care |Handout, Ethics of Care|Handout, Ethics of Care||
+| 4/4 | Mill, Free Speech | Handout, Nicomachaen Ethics *NE*, Bk I | Handout, *NE*, Bk II |
+| 4/11 |Handout, *NE*, Bk VIII|Handout, Virtue Theory and Abortion |Handout, Ethics of Care |
+|4/18|Handout, Ethics of Care|Handout, Ethics of Care | Handout, The Golden Bowl |
+| 4/25 |Handout, Fragility of Goodness |Handout, Fragility of Goodness||  |||
 ||**May**|||||
-|5/2|Handout, The Golden Bowl|Handout, Fragility of Goodness|Handout, Fragility of Goodness||
+|5/2|||||
 
 ### Week 8
 

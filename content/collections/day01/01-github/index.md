@@ -1,10 +1,21 @@
 ---
-title: "Lesson 3"
-weight: 1
-subtitle: ""
-excerpt: "The fear of consequences may keep us from committing the outward acts of murder or adultery, but only love will keep us from committing murder or adultery in our hearts. Practice of Godliness, 52"
-date: 2021-10-06
+date: "2021-01-01"
 draft: false
+excerpt: You can share information about yourself with the community on GitHub by
+  creating a profile README. GitHub shows your profile README at the top of your profile
+  page.
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://bakeoff.netlify.com/
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/apreshill/bakeoff
+subtitle: Put your best foot forward, first.
+title: A GitHub profile
+weight: 1
 ---
 
 # Lesson 3 Developing a Godly Character
