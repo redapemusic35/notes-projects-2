@@ -43,7 +43,7 @@ Hopefully this will allow you to access course content quickly and easily. It is
 |2/7|TML, Judge Not?|TML, Trying Out One's New Sword |Ayer, 102--114||
 |2/14|TML, Seaman Holmes and The Longboat of William Brown, Mill, 1--5|Mill, 6--12|Mill, 12--26||
 |2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53|
-|2/28|Mill, 53--64|TML, Against Utilitarianism, 211--221||
+|2/28|Mill, 53--64qTML, Against Utilitarianism, 211--221||
 |||**March**|||
 |3/21|Euthyphro, Handout, to end|TML, pages 231--232 and Kant, 30--40|Kant, 44--48||
 | 3/28|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism|TML, The Good Brahmin||
