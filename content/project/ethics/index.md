@@ -31,52 +31,49 @@ Hopefully this will allow you to access course content quickly and easily. It is
 
 **(Kant)**: Kant, Immanuel, James W. Ellington, and Immanuel Kant. Grounding for the Metaphysics of Morals ; with, On a Supposed Right to Lie Because of Philanthropic Concerns. 3rd ed. Indianapolis: Hackett Pub. Co, 1993.
 
-## Assignments
+## Assigned Readings
 
-||Mon|Wed|Fri||
-|:---:|:---:|:---:|:---:|:---:|
-|||**January**|||
-|1/17||TML, Lord of the Flies, 10--30| TML, Hobbes, State of Nature 40--48||
-|1/24|Hobbes, State of Nature 40--48, LTL, 5--16|LTL, 31--39|Handout, Informal Logic||
-|||**Febrary**|||
-|1/31|TML, Billy Bud, 53--63; Sophie's Choice, 69--75|TML, Natural Goodness, 90--98|TML, Custom is King and The Case for Moral Relativism||
-|2/7|TML, Judge Not?|TML, Trying Out One's New Sword |Ayer, 102--114||
-|2/14|TML, Seaman Holmes and The Longboat of William Brown, Mill, 1--5|Mill, 6--12|Mill, 12--26||
-|2/21|Mill, 27--34|Mill, 35--41|Mill, 42--53|
-|2/28|Mill, 53--64qTML, Against Utilitarianism, 211--221||
-|||**March**|||
-|3/21|Euthyphro, Handout, to end|TML, pages 231--232 and Kant, 30--40|Kant, 44--48||
-| 3/28|TML, The Ring of Gyges|TML, In Defense of Ethical Egoism|TML, The Good Brahmin||
-| 3/28 | TML, The Human Search for Meaning | TML, Intuitionism | Handout, A defense of Abortion |
-||**April**||||
-| 4/4 | Mill, Free Speech | Handout, Nicomachaen Ethics *NE*, Bk I | Handout, *NE*, Bk II |
-| 4/11 |Handout, *NE*, Bk VIII|Handout, Virtue Theory and Abortion |Handout, Ethics of Care |
-|4/18|Handout, Ethics of Care|Handout, Ethics of Care | Handout, The Golden Bowl |
-| 4/25 |Handout, Fragility of Goodness |Handout, Fragility of Goodness||  |||
-||**May**|||||
-|5/2|||||
-
-### Week 8
-
-
-## Lecuture Slides and Notes
-
-https://redapemusic35.github.io/xaringan_gh/1-18-22
-
-https://redapemusic35.github.io/xaringan_gh/1-20-22
-
-https://redapemusic35.github.io/xaringan_gh/1-23-22
-
-https://redapemusic35.github.io/xaringan_gh/1-25-22
-
-https://redapemusic35.github.io/xaringan_gh/1-27-22
-
-https://redapemusic35.github.io/xaringan_gh/1-31-22
-
-https://redapemusic35.github.io/xaringan_gh/2-2-22
-
-https://redapemusic35.github.io/xaringan_gh/2-7-22
-
+| Week                       | Reading                      | Location        |
+| :---:                      | :---:                        | :---:           |
+| Week 1 (Jan 18---Jan 21)   | Lord of the Flies            | TML 10---30     |
+|                            | State of Nature              | TML, 40---48    |
+| Week 2 (Jan 24---Jan 28)   | Ayer                         | LTL, 5---9      |
+|                            | Ayer                         | LTL, 10---16    |
+| Week 3 (Jan 31---Feb 4)    | Ayer                         | LTL, 33---45    |
+| Week 4 (Feb 7---Feb11)     | Foot                         | TML, 90---98    |
+|                            | Judge Not?                   | TML, 145---153  |
+| Week 5 (Feb 14---Feb 18)   | Trying out one's new sword   | TML, 154---159  |
+| Week 6 (Feb 21---Feb 25)   | Mill                         | Mill, 6---12    |
+|                            | Mill                         | Mill, 12---26   |
+|                            | Mill                         | Mill, 27---34   |
+| Week 7 (Feb 28---Mar 4)    | Mill                         | Mill, 35---41   |
+|                            | Mill                         | Mill, 42---53   |
+|                            | Mill                         | Mill, 53---64   |
+| Week 8 (Mar 7---Mar 11)    | Against Utilitarianism       | TML, 211---221  |
+|                            | Euthyphro                    | Handout, 1---12 |
+|                            | Euthyphro                    | Handout, to end |
+| Week 9 (Mar 14---Mar 18)   | No classes                   |                 |
+| Week 10 (Mar 21---Mar 25)  | Kant                         | Kant, 7---17    |
+|                            | Kant                         | Kant, 19---30   |
+|                            | Kant                         | Kant, 31---41   |
+| Week 11 (Mar 28---Apr 1)   | Why Should We Be Moral?      | TML, 468        |
+|                            | The Ring of Gyges            | TML, 469---476  |
+|                            | In Defense of Ethical Egoism | TML, 477---485  |
+| Week 12 (Apr 4---Apr 8)    | The Good Brahmin             | TML, 513---514  |
+|                            | Hedonism                     | TML, 515---521  |
+|                            | The Human Search for Meaning | TML, 529---535  |
+| Week 13 (Apr 11---Apr 15)  | Intuitionism                 | TML, 252---264  |
+|                            | A Defense of Abortion        | Handout         |
+|                            | Free Speech                  | Handout         |
+| Week 14 (Apr 18---Apr 22)  | Hate Speech                  | TML, 656---663  |
+|                            | Nicomachean Ethics           | Handout         |
+|                            | Nicomachean Ethics           | Handout         |
+| Week 15 (Apr 25---Apr 29)  | Virtue Theory and Abortion   | Handout         |
+|                            | Ethics of Care               | Handout         |
+|                            | Ethics of Care               | Handout         |
+| Week 16 (May 2---May 6)    | The Fragility of Goodness    | Handout         |
+|                            | The Fragility of Goodness    | Handout         |
+|                            | The Golden Bowl              | Handout         |
 
 
 
